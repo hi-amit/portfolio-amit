@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="./portfolio.css">
+        <meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+    </head>
+    <body>
+        <div class="main-container">
+            <div>
+                <ul class="navigation" style="margin-top: 0;">
+                    <li><button onclick="copy()" class="home btn"><a href="./index.html" class="home btn" style="margin-right: 0; font-weight: bold;">Home</a></button></li>
+                    <li><button onclick="cut()" class="about btn" style="margin-right: 0;"><a href="./About.html" class="about btn" style="margin-right: 0; font-weight: bold;">About me</a></button></li>
+                  </ul>
+            </div>
+            <div class="main-heading">
+                <h1> <img src="./assets/waving_hand_black_24dp.svg" alt="Image" style="margin-right: 12px;" height="48px">Hi , I am<span class="amit1"> Amit rohilla.
+                    <img class="image" src="./assets/santa-hat.svg" width="28px" alt="Image">
+                </span><br>I enjoy creating, user centric, delightful, human experiences.</span></h1>
+            </div>
+            <div>
+                <h6>Recent work: Spice money</h6>
+            </div>
+            <div class="scroll-container">
+                <img src="./assets/expand-more.svg" alt="Icon">
+                <h6 style="margin-top: 0;">Scroll down</h6>
+            </div>
+            <div>
+                <a href="./merchant-toolkit.html">
+                <img src="./assets/card-2.svg" alt="Image" width="1000px">
+                </a>
+            </div>
+            <div>
+                <a href="./spice-search.html">
+                <img src="./assets/card-3.svg" alt="Image" width="1000px">
+                </a>
+            </div>
+            <div>
+                <a href="./inventory.html">
+                <img src="./assets/card-4.svg" alt="Image" width="1000px">
+                </a>
+            </div>
+        </div>
+        
+        <div class="footer-container">
+            <h1 style="text-align: center; font-family: manrope;">LET'S WORK<br>T_G_TH_R</h1>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <script>
+            // Add active class to the current button (highlight it)
+            var header = document.getElementById("myDIV");
+            var btns = header.getElementsByClassName("btn");
+            for (var i = 0; i < btns.length; i++) {
+              btns[i].addEventListener("click", function() {
+              var current = document.getElementsByClassName("active");
+              current[0].className = current[0].className.replace(" active", "");
+              this.className += " active";
+              });
+            }
+        </script>
+    </body>
+</html>

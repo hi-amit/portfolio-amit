@@ -1,0 +1,167 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1106" height="888" viewBox="0 0 1106 888">
+  <defs>
+    <filter id="Rectangle_2660" x="0" y="0" width="274" height="196" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2661" x="277" y="0" width="275" height="196" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2662" x="554" y="0" width="275" height="196" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_2663" x="832" y="0" width="274" height="196" filterUnits="userSpaceOnUse">
+      <feOffset dy="2" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Design_process" data-name="Design process" transform="translate(-364 -1210)">
+    <g id="Group_25598" data-name="Group 25598">
+      <g transform="matrix(1, 0, 0, 1, 364, 1210)" filter="url(#Rectangle_2660)">
+        <rect id="Rectangle_2660-2" data-name="Rectangle 2660" width="256" height="178" transform="translate(9 7)" fill="#fff"/>
+      </g>
+      <rect id="Rectangle_2664" data-name="Rectangle 2664" width="7" height="92" rx="1" transform="translate(373 1260)" fill="#f3e666"/>
+      <text id="Stake_holder_Envisioning" data-name="Stake holder 
+Envisioning" transform="translate(402 1298)" fill="#0e141e" font-size="23" font-family="Manrope-Regular, Manrope"><tspan x="0" y="0">Stake holder </tspan><tspan x="0" y="31">Envisioning</tspan></text>
+    </g>
+    <g id="Group_25599" data-name="Group 25599">
+      <g transform="matrix(1, 0, 0, 1, 364, 1210)" filter="url(#Rectangle_2661)">
+        <rect id="Rectangle_2661-2" data-name="Rectangle 2661" width="257" height="178" transform="translate(286 7)" fill="#fff"/>
+      </g>
+      <rect id="Rectangle_2665" data-name="Rectangle 2665" width="7" height="92" transform="translate(650 1260)" fill="#37b41d"/>
+      <text id="Research_Analysis" data-name="Research &amp; 
+Analysis" transform="translate(679 1298)" fill="#0e141e" font-size="23" font-family="Manrope-Regular, Manrope"><tspan x="0" y="0">Research &amp; </tspan><tspan x="0" y="31">Analysis</tspan></text>
+    </g>
+    <g id="Group_25600" data-name="Group 25600">
+      <g transform="matrix(1, 0, 0, 1, 364, 1210)" filter="url(#Rectangle_2662)">
+        <rect id="Rectangle_2662-2" data-name="Rectangle 2662" width="257" height="178" transform="translate(563 7)" fill="#fff"/>
+      </g>
+      <rect id="Rectangle_2666" data-name="Rectangle 2666" width="7" height="92" transform="translate(927 1260)" fill="#37b41d"/>
+      <text id="Validation_testing" data-name="Validation &amp;
+testing" transform="translate(956 1298)" fill="#0e141e" font-size="23" font-family="Manrope-Regular, Manrope"><tspan x="0" y="0">Validation &amp;</tspan><tspan x="0" y="31">testing</tspan></text>
+    </g>
+    <g id="Group_25601" data-name="Group 25601">
+      <g transform="matrix(1, 0, 0, 1, 364, 1210)" filter="url(#Rectangle_2663)">
+        <rect id="Rectangle_2663-2" data-name="Rectangle 2663" width="256" height="178" transform="translate(841 7)" fill="#fff"/>
+      </g>
+      <rect id="Rectangle_2667" data-name="Rectangle 2667" width="7" height="92" transform="translate(1205 1260)" fill="#37b41d"/>
+      <text id="Delivering_Proof_of_Concept" data-name="Delivering 
+Proof of Concept" transform="translate(1233 1298)" fill="#0e141e" font-size="23" font-family="Manrope-Regular, Manrope"><tspan x="0" y="0">Delivering </tspan><tspan x="0" y="31">Proof of Concept</tspan></text>
+    </g>
+    <g id="Group_25577" data-name="Group 25577" transform="translate(373 -358.462)">
+      <g id="Group_25574" data-name="Group 25574" transform="translate(0 9.461)">
+        <text id="Analytics" transform="translate(16 1846)" fill="#0e141e" font-size="18" font-family="Manrope-Regular, Manrope"><tspan x="0" y="0">Analytics</tspan></text>
+        <circle id="Ellipse_1153" data-name="Ellipse 1153" cx="2.5" cy="2.5" r="2.5" transform="translate(0 1839)" fill="#0e141e"/>
+      </g>
+      <g id="Group_25575" data-name="Group 25575" transform="translate(0 4.23)">
+        <text id="Brand_induction" data-name="Brand induction" transform="translate(16 1819.23)" fill="#0e141e" font-size="18" font-family="Manrope-Regular, Manrope"><tspan x="0" y="0">Brand induction</tspan></text>
+        <circle id="Ellipse_1152" data-name="Ellipse 1152" cx="2.5" cy="2.5" r="2.5" transform="translate(0 1811.23)" fill="#0e141e"/>
+      </g>
+      <g id="Group_25576" data-name="Group 25576">
+        <text id="Stakeholder_interview" data-name="Stakeholder interview" transform="translate(16 1791.461)" fill="#0e141e" font-size="18" font-family="Manrope-Regular, Manrope"><tspan x="0" y="0">Stakeholder interview</tspan></text>
+        <circle id="Ellipse_1151" data-name="Ellipse 1151" cx="2.5" cy="2.5" r="2.5" transform="translate(0 1783.461)" fill="#0e141e"/>
+      </g>
+    </g>
+    <g id="Group_25578" data-name="Group 25578" transform="translate(927.462 -358.462)">
+      <g id="Group_25574-2" data-name="Group 25574" transform="translate(0 9.461)">
+        <text id="Analytics-2" data-name="Analytics" transform="translate(15.539 1846)" fill="#0e141e" font-size="18" font-family="Manrope-Regular, Manrope"><tspan x="0" y="0">Analytics</tspan></text>
+        <ellipse id="Ellipse_1153-2" data-name="Ellipse 1153" cx="3" cy="2.5" rx="3" ry="2.5" transform="translate(-0.461 1839)" fill="#0e141e"/>
+      </g>
+      <g id="Group_25575-2" data-name="Group 25575" transform="translate(0 4.23)">
+        <text id="Analysis_report" data-name="Analysis report" transform="translate(15.539 1819.23)" fill="#0e141e" font-size="18" font-family="Manrope-Regular, Manrope"><tspan x="0" y="0">Analysis report</tspan></text>
+        <ellipse id="Ellipse_1152-2" data-name="Ellipse 1152" cx="3" cy="2.5" rx="3" ry="2.5" transform="translate(-0.461 1811.23)" fill="#0e141e"/>
+      </g>
+      <g id="Group_25576-2" data-name="Group 25576" transform="translate(0)">
+        <text id="Design_iterations" data-name="Design iterations" transform="translate(15.539 1791.461)" fill="#0e141e" font-size="18" font-family="Manrope-Regular, Manrope"><tspan x="0" y="0">Design iterations</tspan></text>
+        <ellipse id="Ellipse_1151-2" data-name="Ellipse 1151" cx="3" cy="2.5" rx="3" ry="2.5" transform="translate(-0.461 1783.461)" fill="#0e141e"/>
+      </g>
+    </g>
+    <g id="Group_25579" data-name="Group 25579" transform="translate(1204.692 -358.462)">
+      <g id="Group_25575-3" data-name="Group 25575" transform="translate(0 2.23)">
+        <text id="Initial_toolkits_Prioritization_MVP" data-name="Initial toolkits &amp; Prioritization 
+&amp; MVP" transform="translate(15.308 1819.23)" fill="#0e141e" font-size="18" font-family="Manrope-Regular, Manrope"><tspan x="0" y="0">Initial toolkits &amp; Prioritization </tspan><tspan x="0" y="31">&amp; MVP</tspan></text>
+        <circle id="Ellipse_1152-3" data-name="Ellipse 1152" cx="2.5" cy="2.5" r="2.5" transform="translate(0.308 1811.23)" fill="#0e141e"/>
+      </g>
+      <g id="Group_25576-3" data-name="Group 25576" transform="translate(0 -2)">
+        <text id="_Story_of_the_data_summary" data-name=" Story of the data – summary" transform="translate(15.308 1791.461)" fill="#0e141e" font-size="18" font-family="Manrope-Regular, Manrope"><tspan x="0" y="0" xml:space="preserve"> Story of the data – summary</tspan></text>
+        <circle id="Ellipse_1151-3" data-name="Ellipse 1151" cx="2.5" cy="2.5" r="2.5" transform="translate(0.308 1783.461)" fill="#0e141e"/>
+      </g>
+    </g>
+    <g id="Group_25573" data-name="Group 25573" transform="translate(650.231 -358.462)">
+      <g id="Group_25572" data-name="Group 25572" transform="translate(0 36.076)">
+        <text id="Starting_of_User_research_Calling_User_insights_" data-name="Starting of User research 
+(Calling – User insights)" transform="translate(15.77 2384.385)" fill="#0e141e" font-size="18" font-family="Manrope-Regular, Manrope"><tspan x="0" y="0">Starting of User research </tspan><tspan x="0" y="31">(Calling – User insights)</tspan></text>
+        <circle id="Ellipse_1163" data-name="Ellipse 1163" cx="2.5" cy="2.5" r="2.5" transform="translate(-0.231 2376.385)" fill="#0e141e"/>
+      </g>
+      <g id="Group_25571" data-name="Group 25571" transform="translate(0 32.846)">
+        <text id="User_research_and_design_thinking_" data-name="User research and design 
+thinking   " transform="translate(15.77 2324.615)" fill="#0e141e" font-size="18" font-family="Manrope-Regular, Manrope"><tspan x="0" y="0">User research and design </tspan><tspan x="0" y="31" xml:space="preserve">thinking   </tspan></text>
+        <circle id="Ellipse_1162" data-name="Ellipse 1162" cx="2.5" cy="2.5" r="2.5" transform="translate(-0.231 2317.615)" fill="#0e141e"/>
+      </g>
+      <g id="Group_25570" data-name="Group 25570" transform="translate(0 29.615)">
+        <text id="Task_flow_-_On-boarding_of_merchant_-_Product_addition_-_Promoting_a_product" data-name="Task flow  - On-boarding of 
+                     merchant,
+                   - Product addition
+                   - Promoting a 
+                     product" transform="translate(15.77 2171.846)" fill="#0e141e" font-size="18" font-family="Manrope-Regular, Manrope"><tspan x="0" y="0" xml:space="preserve">Task flow  - On-boarding of </tspan><tspan x="0" y="31" xml:space="preserve">                     merchant,</tspan><tspan x="0" y="62" xml:space="preserve">                   - Product addition</tspan><tspan x="0" y="93" xml:space="preserve">                   - Promoting a </tspan><tspan x="0" y="124" xml:space="preserve">                     product</tspan></text>
+        <ellipse id="Ellipse_1161" data-name="Ellipse 1161" cx="2.5" cy="3" rx="2.5" ry="3" transform="translate(-0.231 2163.846)" fill="#0e141e"/>
+      </g>
+      <g id="Group_25569" data-name="Group 25569" transform="translate(0 25.383)">
+        <text id="_Brainstorming_--_basic_prototype_for_merchant_Customer_s_view." data-name=" Brainstorming --    basic 
+prototype for merchant, 
+Customer’s view." transform="translate(15.77 2082.078)" fill="#0e141e" font-size="18" font-family="Manrope-Regular, Manrope"><tspan x="0" y="0" xml:space="preserve"> Brainstorming --    basic </tspan><tspan x="0" y="31">prototype for merchant, </tspan><tspan x="0" y="62">Customer’s view.</tspan></text>
+        <circle id="Ellipse_1160" data-name="Ellipse 1160" cx="2.5" cy="2.5" r="2.5" transform="translate(-0.231 2074.078)" fill="#0e141e"/>
+      </g>
+      <g id="Group_25568" data-name="Group 25568" transform="translate(0 22.152)">
+        <text id="Brainstorming_Team_activity_Affinity_mapping_A_tentative_user_flow." data-name="Brainstorming – Team 
+activity (Affinity mapping),
+ A tentative user flow." transform="translate(15.77 1991.309)" fill="#0e141e" font-size="18" font-family="Manrope-Regular, Manrope"><tspan x="0" y="0">Brainstorming – Team </tspan><tspan x="0" y="31">activity (Affinity mapping),</tspan><tspan x="0" y="62" xml:space="preserve"> A tentative user flow.</tspan></text>
+        <ellipse id="Ellipse_1159" data-name="Ellipse 1159" cx="2.5" cy="3" rx="2.5" ry="3" transform="translate(-0.231 1983.309)" fill="#0e141e"/>
+      </g>
+      <g id="Group_25567" data-name="Group 25567" transform="translate(0 17.922)">
+        <text id="Design_thinking_process_Double_diamond" data-name="Design thinking process – 
+Double diamond" transform="translate(15.77 1932.539)" fill="#0e141e" font-size="18" font-family="Manrope-Regular, Manrope"><tspan x="0" y="0">Design thinking process – </tspan><tspan x="0" y="31">Double diamond</tspan></text>
+        <ellipse id="Ellipse_1158" data-name="Ellipse 1158" cx="2.5" cy="3" rx="2.5" ry="3" transform="translate(-0.231 1924.539)" fill="#0e141e"/>
+      </g>
+      <g id="Group_25566" data-name="Group 25566" transform="translate(0 12.691)">
+        <text id="Gap_Analysis" data-name="Gap Analysis" transform="translate(15.77 1905.77)" fill="#0e141e" font-size="18" font-family="Manrope-Regular, Manrope"><tspan x="0" y="0">Gap Analysis</tspan></text>
+        <circle id="Ellipse_1157" data-name="Ellipse 1157" cx="2.5" cy="2.5" r="2.5" transform="translate(-0.231 1897.77)" fill="#0e141e"/>
+      </g>
+      <g id="Group_25565" data-name="Group 25565" transform="translate(0 8.461)">
+        <text id="The_five_Why_s" data-name="The five Why’s" transform="translate(15.77 1878)" fill="#0e141e" font-size="18" font-family="Manrope-Regular, Manrope"><tspan x="0" y="0">The five Why’s</tspan></text>
+        <circle id="Ellipse_1156" data-name="Ellipse 1156" cx="2.5" cy="2.5" r="2.5" transform="translate(-0.231 1870)" fill="#0e141e"/>
+      </g>
+      <g id="Group_25564" data-name="Group 25564" transform="translate(0 4.23)">
+        <text id="Current_scenario_User_s_ecosystem" data-name="Current scenario – User’s 
+ecosystem" transform="translate(15.77 1819.23)" fill="#0e141e" font-size="18" font-family="Manrope-Regular, Manrope"><tspan x="0" y="0">Current scenario – User’s </tspan><tspan x="0" y="31">ecosystem</tspan></text>
+        <circle id="Ellipse_1155" data-name="Ellipse 1155" cx="2.5" cy="2.5" r="2.5" transform="translate(-0.231 1811.23)" fill="#0e141e"/>
+      </g>
+      <g id="Group_25563" data-name="Group 25563">
+        <text id="User_research" data-name="User research" transform="translate(15.77 1791.461)" fill="#0e141e" font-size="18" font-family="Manrope-Regular, Manrope"><tspan x="0" y="0">User research</tspan></text>
+        <circle id="Ellipse_1154" data-name="Ellipse 1154" cx="2.5" cy="2.5" r="2.5" transform="translate(-0.231 1783.461)" fill="#0e141e"/>
+      </g>
+    </g>
+    <g id="Group_25580" data-name="Group 25580" transform="translate(988.692 1988.615)">
+      <rect id="Rectangle_2668" data-name="Rectangle 2668" width="7" height="91" rx="1" transform="translate(0.308 0.385)" fill="#f3e666"/>
+      <rect id="Rectangle_2669" data-name="Rectangle 2669" width="7" height="91" transform="translate(277.308 0.385)" fill="#37b41d"/>
+      <text id="_" data-name="=" transform="translate(23.308 52.385)" fill="#fff" font-size="18" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">=</tspan></text>
+      <text id="_2" data-name="=" transform="translate(300.308 52.385)" fill="#fff" font-size="18" font-family="Roboto-Light, Roboto" font-weight="300"><tspan x="0" y="0">=</tspan></text>
+      <text id="Partial_involvement" data-name="Partial involvement" transform="translate(44.308 52.385)" fill="#0e141e" font-size="18" font-family="Manrope-Regular, Manrope"><tspan x="0" y="0">Partial involvement</tspan></text>
+      <text id="Active_involvement" data-name="Active involvement" transform="translate(321.308 52.385)" fill="#0e141e" font-size="18" font-family="Manrope-Regular, Manrope"><tspan x="0" y="0">Active involvement</tspan></text>
+    </g>
+  </g>
+</svg>

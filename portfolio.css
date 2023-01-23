@@ -1,0 +1,168 @@
+body{
+    background-color: #f7f4f2;
+    border: 20px solid white;
+}
+.main-container{
+    max-width: 1000px;
+    font-family: 'Manrope';
+    margin: 0 auto;
+    color: #221429;
+}
+.navigation{
+    display: flex;
+    justify-content: end;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+ul{
+   list-style-type: none; 
+}
+.active, .btn:hover {
+    color: #E8985E;
+    background-color: inherit;
+  }
+.home{
+    font-size: 14px;
+    font-weight: 500;
+    background-color: #f7f4f2;
+    color: #221429;
+    border: 0px;
+    margin-right: 40px;
+    padding: 0;
+    background-color: inherit;
+    text-decoration: none;
+}
+.about{
+    font-size: 14px;
+    font-weight: 500;
+    background-color: #f7f4f2;
+    color: #221429;
+    border: 0px;
+    margin-right: 40px;
+    padding: 0;
+    background-color: inherit;
+    text-decoration: none;
+}
+h1{
+    font-size: 62px;
+    text-align: left;
+    font-weight: bolder;
+    margin-bottom: 0;
+}
+h2{
+    font-size: 50px;
+    margin: 0;
+}
+h3{
+    font-size: 28px;
+    margin: 0;
+}
+h4{
+    font-size: 18px;
+}
+h5{
+    font-size: 16px;
+    margin: 0;
+}
+h6{
+    font-size: 14px;
+    margin: 0;
+    font-weight: 400;
+    margin-top: 16px;
+}
+.main-heading{
+    margin-top: 120px;
+}
+.amit1{
+    color: #E8985E;
+    position: relative;
+}
+.image{
+    position: absolute;
+    left: 20px; 
+}
+.smiley{
+    position: relative;
+}
+.about-me-container{
+    margin-top: 48px;
+    display: flex;
+    justify-content: space-between;
+}
+.about-me-txt{
+    margin-left: 120px;
+}
+.heading-container{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+.image-container{
+    display: flex;
+    align-items: center;
+}
+.conatiner1{
+    margin-top: 120px;
+}
+.involved-container{
+    margin-top: 80px;
+}
+.primary-btn{
+    font-size: 14px;
+    height: 44px;
+    color: rgb(0, 0, 0);
+    background-color: #E8985E;
+    border-radius: 8px;
+    border: 0px;
+    width: 180px;
+    font-family: manrope;
+    margin-top: 24px;
+    font-weight: bold;
+}
+.main-container1{
+    max-width: 1000px;
+    font-family: 'Manrope';
+    margin: 0 auto;
+    color: #221429;
+}
+.bg{
+    background-image: url(./assets/bg-2.svg);
+    height: 880px;
+}
+.spice-container{
+    text-align: center;
+    margin-top: 640px;
+}
+.img-btn{
+    border: 0px;
+    background-color: inherit;
+}
+.bg1{
+    background-image: url(./assets/bg-6.svg);
+    height: 840px;
+    position: relative;
+}
+.spice-container1{
+    text-align: center;
+  position: absolute;
+  bottom: 36px;
+  left: 36%;
+}
+.scroll-container{
+    display: flex;
+    justify-content: center;
+    margin-top: 140px;
+    margin-bottom: 240px;
+}
+.card-container{
+    margin-top: 20px;
+}
+.footer-container{
+    background-color: #E8985E;
+    text-align: center;
+    padding: 40px;
+    margin-top: 120px;
+}
+.footer-c{
+    margin-top: 140px;
+}
